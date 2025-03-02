@@ -1,4 +1,5 @@
 #include <msp430fr2310.h>
+#include <stdbool.h>
 
 int main(void)
 {
@@ -11,7 +12,7 @@ int main(void)
     // Disable low-power mode / GPIO high-impedance
     PM5CTL0 &= ~LOCKLPM5;
 
-    while(1)
+    while (true)
     {
         P1OUT ^= BIT0;
 
