@@ -1,7 +1,5 @@
 # EELE 465 project 4
 
-> [!WARNING]
-> This repo is still under construction 🚧👷‍♀️. Expect some pull requests from GitHub classroom...
 
 ## Repo structure
 
