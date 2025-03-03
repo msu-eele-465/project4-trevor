@@ -23,7 +23,7 @@ This folder is the CCS project for the I2C LCD.
 
 #### CCS project files
 
-- [`.ccsproject`](.cssproject): Stores project settings contributed by TI.
+- [`.ccsproject`](.ccsproject): Stores project settings contributed by TI.
 - [`.cproject`](.cproject): Stores project settings contributed by CDT (C/C++ Development Tooling).
 - [`.project`](.project): Stores project settings contributed by Eclipse.
 
